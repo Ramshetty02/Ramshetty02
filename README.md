@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramshetty02
 - 👀 I’m interested in ...technology
-- 🌱 I’m currently learning ...web development using ai and also code
+- 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ramshettymail@gmail.com
 - 😄 Pronouns: ...sairam
